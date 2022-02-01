@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,regular,500,600,700,800,300italic,italic,500italic,600italic,700italic,800italic);
+
+body {
+  font-family: 'Open Sans';
+  background: #ece6d8;
+}
+@font-face {
+  font-family: Hylia Serif;
+  src: url('./HyliaSerif/HyliaSerifBeta-Regular.otf');
+}
+
+h1 {
+  font-size: 50px;
+  font-family: Hylia Serif;
+  letter-spacing: 4px;
+}
